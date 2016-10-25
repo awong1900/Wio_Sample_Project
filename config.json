@@ -1,4 +1,6 @@
 {
-    "connections": [],
-    "board_name": "WioLink v1.0"
+    "board_name": "WioLink v1.0",
+    "connections": [
+        {"sku": "101020019-ffff", "port": "D0"}
+    ]
 }
